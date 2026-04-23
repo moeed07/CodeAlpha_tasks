@@ -1,0 +1,3 @@
+﻿  Task1.cpp
+Z:\new vs code\projects of vs new\Code Alpha _ to do application\Task1.cpp(34,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Code Alpha _ to do application.vcxproj -> Z:\new vs code\projects of vs new\Code Alpha _ to do application\x64\Debug\Code Alpha _ to do application.exe
